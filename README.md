@@ -33,6 +33,8 @@ Summary:
   D6, Vin e GND: digital input for LED
 
 
+![circuit](https://github.com/adzuki1/sound_reactive_LED/assets/101777198/7e38e8a3-6b67-4e00-a305-9939c634d98b)
+
 
   Este projeto mostra o funcionamento de uma fita LED interativa que sincroniza as luzes com um input de som, criando uma fascinante experiência visual. O projeto envolve 01  microcontrolador Arduino, 01 sensor de som  KY-038 e uma fita com 30 LEDs endereçáveis para trazer luzes vibrantes e efeitos dinâmicos através da biblioteca FastLED.
 
@@ -66,4 +68,3 @@ Sumário:
 Explicação do Código:
 
 	Este código utiliza a biblioteca <FastLED.h>
-![circuit](https://github.com/adzuki1/sound_reactive_LED/assets/101777198/7e38e8a3-6b67-4e00-a305-9939c634d98b)
