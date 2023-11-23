@@ -1,4 +1,4 @@
-# sound_reactive_LED
+# Sound_Reactive_LED
 
 ## Documentation / Documentação
 
