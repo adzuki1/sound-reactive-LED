@@ -1,5 +1,7 @@
 # Sound_Reactive_LED
 
+EN / PT-BR
+
 ## Documentation / Documentação
 
 
