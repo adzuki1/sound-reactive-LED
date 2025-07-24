@@ -2,7 +2,6 @@
 #define FASTLED_ALLOW_INTERRUPTS 0
 #include <FastLED.h>
 
-
 #define READ_PIN A5
 #define LED_PIN 5
 #define NUM_LEDS 30
