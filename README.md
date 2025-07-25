@@ -9,7 +9,6 @@ Summary:
 
 1. Used Material
 2. Pinout
-3. Code description
 
 1. Used Material:
 
@@ -30,6 +29,8 @@ Summary:
 
 ![circuit](https://github.com/adzuki1/sound_reactive_LED/assets/101777198/7e38e8a3-6b67-4e00-a305-9939c634d98b)
 
+
+	This code uses the <FastLED.h> library
 ---
 ## PT-BR
 
@@ -39,7 +40,6 @@ Sumário:
 
 1. Material Utilizado
 2. Pinagem
-3. Descrição do código
  
 1. Material:
 
